@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "id": "8c2a",
+      "username": "chimatanagagopal",
+      "message": "2-29A",
+      "city": "Vijayawada",
+      "phone": "010-110-1122",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "id": "e750",
+      "message": "222",
+      "username": "gopal",
+      "city": "Vijayawada",
+      "phone": "010-110-1122",
+      "state": "username,"
+    },
+    {
+      "id": "8a36",
+      "message": "gfhjkl;",
+      "username": "Gopal",
+      "city": "fcgvbnm,",
+      "phone": "fdghjkl;",
+      "state": "cfcgvbhnm,"
+    }
+  ]
+}
